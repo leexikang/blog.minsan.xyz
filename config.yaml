@@ -1,0 +1,26 @@
+baseURL: https://nodejh.github.io
+languageCode: en-us
+title: tail -f Min
+theme: mini
+paginate: 3
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+
+social:
+  github: https://github.com/leexikang
+  twitter: https://twitter.com/mg_minsan
+
+
+params:
+  author: Min San
+  bio: Passionate but Mediocre Programmer, Ex-Hiker
+  description: All about Author thoughts, journals and his love about Programming
+  enableSummary: true

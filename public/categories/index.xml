@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Min&#39;s Thoughts</title>
-    <link>https://nodejh.github.io/categories/</link>
-    <description>Recent content in Categories on Min&#39;s Thoughts</description>
+    <title>Categories on tail -f Min</title>
+    <link>https://blog.minsan.xyz/categories/</link>
+    <description>Recent content in Categories on tail -f Min</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nodejh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://blog.minsan.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

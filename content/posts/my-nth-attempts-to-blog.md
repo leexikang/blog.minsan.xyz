@@ -1,5 +1,5 @@
 ---
-title: "My Nth Attempts setting up a blog"
+title: "My Nth Attempts setting up the blog"
 date: 2022-09-21T00:19:54+07:00
 draft: false
 ---
